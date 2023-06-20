@@ -1,3 +1,3 @@
 # photoshop-scripts
 
-test edits
+Scripts for automating simple photoshop tasks.
